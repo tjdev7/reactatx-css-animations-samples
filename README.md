@@ -15,6 +15,6 @@ Small repo for a presentation that's being worked on for ReactATX by me. Mainly 
 
 The presentation for the meeting is "under the "presentationSlides" folder. It currently comes in the following formats:
 
-.key
-.pdf
-.pptx
+- .key
+- .pdf
+- .pptx
