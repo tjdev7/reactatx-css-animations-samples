@@ -1,6 +1,6 @@
 # reactatx-css-js-animations
 
-Small repo for a presentation that's being worked on for ReactATX by me. Mainly involving JavaScript and CSS Animations that are available for React. 
+Small repo for the presentation that's gave for ReactATX and Techqueria by me. Mainly involving JavaScript and CSS Animations that are available for React.
 
 ## What the presentation is about:
 
