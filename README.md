@@ -1,6 +1,6 @@
 # reactatx-css-js-animations
 
-Small repo for a presentation that's being worked on for ReactATX by me. Mainly involving JavaScript and CSS Animations that are available for React. 
+Small repo for the presentation that's gave for ReactATX and Techqueria by me. Mainly involving JavaScript and CSS Animations that are available for React.
 
 ## What the presentation is about:
 
@@ -15,6 +15,6 @@ Small repo for a presentation that's being worked on for ReactATX by me. Mainly 
 
 The presentation for the meeting is "under the "presentationSlides" folder. It currently comes in the following formats:
 
-.key
-.pdf
-.pptx
+- .key
+- .pdf
+- .pptx
